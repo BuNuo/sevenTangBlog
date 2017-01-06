@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.yht.blog.model.Users;
 import com.yht.blog.service.UserService;
-
+//测试
 @Controller
 public class UserController {
      
